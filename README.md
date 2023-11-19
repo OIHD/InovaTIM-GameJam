@@ -78,9 +78,15 @@ Oyuncu gündüzleri kaynak toplarken geceleri kale savunması yaparak akışta k
 ---
 ![Ekran görüntüsü 2023-11-19 163717](https://github.com/OIHD/InovaTIM-GameJam/assets/119634290/d8c94c71-60cb-48e8-8bb6-a115efda0e71)
 
+![Ekran görüntüsü 2023-11-19 194812](https://github.com/Metbatu/InovaTIM-GameJam/assets/119634290/19fdd5fc-fcf7-4afa-bd48-2048f6345475)
+
 ![dusmanrobot](https://github.com/OIHD/InovaTIM-GameJam/assets/119634290/049ab0db-55e3-47a3-91f6-77372ecd63c5)
 
 ![Base](https://github.com/OIHD/InovaTIM-GameJam/assets/119634290/ccf308d7-495b-4337-9117-1817dce017d4)
+
+![Ekran görüntüsü 2023-11-19 194438](https://github.com/Metbatu/InovaTIM-GameJam/assets/119634290/06ab6a1e-8d20-4299-9886-27a2d1da61fe)
+
+![Ekran görüntüsü 2023-11-19 194510](https://github.com/Metbatu/InovaTIM-GameJam/assets/119634290/958ce5c2-dc8a-43bb-b12a-c2f8e1a4da73)
 
 ![agaclar](https://github.com/OIHD/InovaTIM-GameJam/assets/119634290/6ad62944-0e42-4ac7-9d86-f109e869703f)
 
